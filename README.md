@@ -1,4 +1,4 @@
-👋 Hi there! I'm Amir Rajabzadeh, a passionate Laravel and Flutter developer.
+👋 Hi there! I'm [Amir Rajabzadeh], a passionate Laravel and Flutter developer.
 
 💻 I have a strong background in web development, with expertise in building robust and scalable applications using the Laravel PHP framework. I enjoy crafting elegant solutions to complex problems and take pride in writing clean, efficient, and maintainable code.
 
@@ -20,6 +20,6 @@
 
 🚀 If you're looking for someone to help bring your web or mobile app ideas to life, feel free to reach out! I'm open to exciting freelance opportunities or collaborations on interesting projects.
 
-✉️ You can connect with me via email at [your@email.com] or find me on LinkedIn [insert your LinkedIn profile link]. Let's build something amazing together!
+✉️ You can connect with me via email at [amir.rajabzadeh908@gmail.com] or find me on LinkedIn [https://www.linkedin.com/in/amir-rajabzadeh/]. Let's build something amazing together!
 
 Happy coding! 😄
